@@ -1,0 +1,60 @@
+body{
+    padding-top: 50px;
+    background-color: rgba(202, 202, 202, 0.575);
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
+#tictac{
+    margin-left: 115%;
+    position: relative; bottom: 170px;
+    display: block;
+}
+
+#img{
+    width: 80px;
+}
+
+#ticlink{
+    width: 150px;
+    position: relative; right: 30px; top: 10px;
+
+}
+
+#label{
+    position: relative; bottom: 50px;
+}
+
+#txtTarefa{
+    display: block;
+    background-color: rgb(236, 236, 236);
+}
+
+
+#btnAdicionar{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+table{
+    text-align: center;
+}
+
+#spnMensagem{
+    display: block;
+}
+
+.footer {
+    text-align: center;
+    width: 140%;
+    position: relative; right: 225px;
+}
+
+#footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    margin-top: 28%;
+    background-color: rgb(182, 182, 182);
+}
